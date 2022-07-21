@@ -22,24 +22,27 @@
                                                                                                
 ## :star2: My Projects: 
 ## With React
-- <a href="https://enesyesilkutuk.github.io/react-tour-project/" target="_blank" >Tour-Project</a>
-- <a href="https://enesyesilkutuk.github.io/react-language-cards-project/" target="_blank" >Language-Card-Project</a>
-- <a href="https://enesyesilkutuk.github.io/react-task-tracker-project/" target="_blank" >Task-Tracker-Project</a>
-- <a href="https://recipe-app-enes.netlify.app/" target="_blank" >Recipe-App--Project</a>
+- <a href="https://github.com/mkaruc/tour-place" target="_blank" >Tour-Project</a>
+- <a href="https://github.com/mkaruc/language-card" target="_blank" >Language-Card-Project</a>
+- <a href="https://github.com/mkaruc/task-tracker" target="_blank" >Task-Tracker-Project</a>
+- <a href="https://github.com/mkaruc/recipe-app-project/tree/context-reducer" target="_blank" >Recipe-App--Project</a>
 - <a href="https://github.com/enesyesilkutuk/react-firebase-movie-app" target="_blank" >Firebase-Movie-App</a>
 - <a href="https://react-fire-contact-app.netlify.app/" target="_blank" >Fire-Contact-App</a>
 - <a href="https://react-blog-app-enes.netlify.app/" target="_blank" >ReactBlog-App</a> 
 ## Without React
  
- - <a href="https://enesyesilkutuk.github.io/Netflix-Survey-Form/" target="_blank" >Netflix-Survey-Form</a>
- - <a href="https://enesyesilkutuk.github.io/Score-Keeper-Project/" target="_blank" >Score-Keeper-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Guess-Number-Project/" target="_blank" >Guess-Number-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Lottery-Project/" target="_blank" >Lottery-Project</a>
- - <a href="https://enesyesilkutuk.github.io/To-Do-List-Project/" target="_blank" >To-Do-List-Project</a>
- - <a href="https://enesyesilkutuk.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
- - <a href="https://enesyesilkutuk.github.io/Checkout-Page-Project/" target="_blank" >Checkout-Page-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Movie-Seat-App/" target="_blank" >Movie-Seat-App-Project</a>
- - <a href="https://enesyesilkutuk.github.io/Weather-App-Project/" target="_blank" >Weather-App-Project</a>
+ - <a href="https://github.com/mkaruc/netflix-project" target="_blank" >Netflix-Survey-Form</a>
+ - <a href="https://github.com/mkaruc/guessTheNumber" target="_blank" >Guess-Number-Project</a>
+ - <a href="https://github.com/mkaruc/toDoList" target="_blank" >To-Do-List-Project</a>
+ - <a href="https://github.com/mkaruc/ioscalculator" target="_blank" >IOS-Calculator</a>
+ - <a href="https://github.com/mkaruc/checkout-js" target="_blank" >Checkout-Page-Project</a>
+ - <a href="https://github.com/mkaruc/weather-app" target="_blank" >Weather-App-Project</a>
+ - <a href="https://github.com/mkaruc/JS30days-day1-drumKit" target="_blank" >Drum-Kit</a>
+ - <a href="https://github.com/mkaruc/JavaScript30-day2-Clock" target="_blank" >Clock</a>
+ - <a href="https://github.com/mkaruc/JavaScript30-day3-CSSJS" target="_blank" >css-variables-with-js</a>
+ - <a href="https://github.com/mkaruc/JavaScript30-day5-flexPanelsImageGallery" target="_blank" >Flex-Panels-Image-Gallery</a>
+ - <a href="https://github.com/mkaruc/JavaScript30-day6-ajaxTypeAhead" target="_blank" >Turkish-Cities</a>
+ - <a href="https://github.com/mkaruc/JavaScript30-day8-html5Canvas" target="_blank" >HTML5-Canvas</a>
 
 ## :fire: My Stats :
                                                                         
