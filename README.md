@@ -5,7 +5,7 @@
 
 
 ## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fatih-mehmet-karuc/](https://www.linkedin.com/in/fatih-mehmet-karuc/))
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-mehmet-karuc/))
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:fatihmehmetkaruc@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaruc" alt="mkaruc" /> </p>
 
