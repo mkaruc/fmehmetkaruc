@@ -45,6 +45,6 @@
 ## :fire: My Stats :
                                                                         
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mkaruc&theme=chartreuse-dark"  alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=mkaruc&show_icons=true&theme=radical)"  alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkaruc&theme=chartreuse-dark" alt="my commit status" width="49%" />  </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaruc&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
