@@ -48,6 +48,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mkaruc&show_icons=true&theme=dark)"  alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mkaruc&theme=dark&hide_border=true" alt="my commit status" width="49%" />  </p>
 <p align="center"> <img src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=mkaruc&layout=compact)]" > </p>
-<a href="https://github.com/anselal/anselal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaruc&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaruc" />
