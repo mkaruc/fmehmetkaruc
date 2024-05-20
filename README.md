@@ -46,6 +46,8 @@
                                                                         
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mkaruc&show_icons=true&theme=dark)"  alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mkaruc&theme=dark&hide_border=true" alt="my commit status" width="49%" />  </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mkaruc&theme=dark&hide_border=true" alt="my commit status" width="49%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaruc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="my commit status" width="49%" /> 
+</p>
 <p align="center"> <img src="[(https://github-readme-stats.vercel.app/api/top-langs?username=mkaruc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/mkaruc)]" > </p>
 
